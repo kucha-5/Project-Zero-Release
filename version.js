@@ -1,7 +1,7 @@
 window.PZ_VERSION = {
-  "latestVersion": "49.19.3",
+  "latestVersion": "49.19.8",
   "build": "2026080303",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-releases/releases/download/49.19.3/ProjectZero_49.19.3_Game_SFAccount_Deployment.zip",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-releases/releases/download/49.19.8/ProjectZero_49.19.8_Game_SFAccount_Deployment.zip",
   "sha256": "3fc7c173d1d8db45fd7855e647e6eef6f897a180ddb9d9c9ca87de391127ffd2",
   "mandatory": false,
   "minimumLauncherVersion": "49.19.7",
