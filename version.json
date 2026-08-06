@@ -1,18 +1,16 @@
 {
-  "latestVersion": "49.19.9",
-  "build": "2026080303",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-releases/releases/download/49.19.9/ProjectZero_49.19.9_Game_SFAccount_Deployment.zip",
-  "sha256": "3fc7c173d1d8db45fd7855e647e6eef6f897a180ddb9d9c9ca87de391127ffd2",
+  "latestVersion": "49.19.8",
+  "version": "49.19.8",
+  "build": "2026080522-flora-lobby-protagonist-exact-github",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-releases/releases/download/v49.19.8/ProjectZero_49.19.8_Game_GitHub.zip",
+  "sha256": "46b1844fe5f799801aff1e81d312836f5b79a9196c7f12443151cfe8814da1b9",
   "mandatory": false,
-  "minimumLauncherVersion": "49.19.7",
   "updateLogZh": [
-    "Project Zero 49.19.3",
-    "SF Account 与云存档部署版本",
-    "修复游戏运行时初始化异常"
+    "芙洛拉大厅立绘恢复为与主角完全一致的大小与坐标",
+    "同步 GitHub 游戏更新包与启动器内置构建"
   ],
   "updateLogEn": [
-    "Project Zero 49.19.3",
-    "SF Account and cloud-save deployment release",
-    "Fixed game runtime initialization failures"
+    "Flora now uses the protagonist's exact lobby portrait size and coordinates.",
+    "GitHub game update package and bundled launcher build are synchronized."
   ]
 }
