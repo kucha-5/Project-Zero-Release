@@ -1,16 +1,18 @@
 {
-  "latestVersion": "49.19.8",
-  "version": "49.19.8",
-  "build": "2026080522-flora-lobby-protagonist-exact-github",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-releases/releases/download/v49.19.8/ProjectZero_49.19.8_Game_GitHub.zip",
-  "sha256": "46b1844fe5f799801aff1e81d312836f5b79a9196c7f12443151cfe8814da1b9",
+  "latestVersion": "49.19.9",
+  "version": "49.19.9",
+  "build": "2026080813-first-test-complete-ost",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-releases/releases/download/v49.19.9/ProjectZero_49.19.9_Game_FirstTest.zip",
+  "sha256": "a8313379ffd3c5a60529787158c760d78ea149c967b36b3e012dcc568cf3724a",
   "mandatory": false,
   "updateLogZh": [
-    "芙洛拉大厅立绘恢复为与主角完全一致的大小与坐标",
-    "同步 GitHub 游戏更新包与启动器内置构建"
+    "Project Zero 一测游戏本体同步至 49.19.9",
+    "补齐第零章、第一章和第二章场景及战斗音乐",
+    "启动器下载后校验 SHA-256，并启动与远程清单一致的游戏 build"
   ],
   "updateLogEn": [
-    "Flora now uses the protagonist's exact lobby portrait size and coordinates.",
-    "GitHub game update package and bundled launcher build are synchronized."
+    "Project Zero First Test game updated to 49.19.9.",
+    "Chapter 0, Chapter 1 and Chapter 2 scene and battle music are included.",
+    "The launcher verifies SHA-256 and starts the build specified by the remote manifest."
   ]
 }
