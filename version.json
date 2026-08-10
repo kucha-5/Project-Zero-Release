@@ -1,18 +1,10 @@
-{{
-  "latestVersion": "49.19.9",
-  "version": "49.19.9",
-  "build": "2026080813-first-test-complete-ost",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-releases/releases/download/v49.19.9/ProjectZero_49.19.9_Game_FirstTest.zip",
-  "sha256": "a8313379ffd3c5a60529787158c760d78ea149c967b36b3e012dcc568cf3724a",
-  "mandatory": false,
-  "updateLogZh": [
-    "Project Zero 一测游戏本体同步至 49.19.9",
-    "补齐第零章、第一章和第二章场景及战斗音乐",
-    "启动器下载后校验 SHA-256，并启动与远程清单一致的游戏 build"
+{
+  "gameManifestUrl": "https://raw.githubusercontent.com/kucha-5/Project-Zero-Release/main/version.json",
+  "launcherManifestUrl": "https://raw.githubusercontent.com/kucha-5/Project-Zero-Release/main/launcher-version.json",
+  "allowedDownloadHosts": [
+    "github.com"
   ],
-  "updateLogEn": [
-    "Project Zero First Test game updated to 49.19.9.",
-    "Chapter 0, Chapter 1 and Chapter 2 scene and battle music are included.",
-    "The launcher verifies SHA-256 and starts the build specified by the remote manifest."
+  "allowedDownloadPathPrefixes": [
+    "/kucha-5/Project-Zero-Release/releases/download/"
   ]
 }
