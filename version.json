@@ -1,11 +1,11 @@
 {
-  "latestVersion": "49.19.10",
+  "latestVersion": "49.19.11",
   "version": "49.19.10",
   "build": "2026080918-tutorial-hizan-1.0",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.19.10/ProjectZero_49.19.10_Game_Tutorial_Hizan_1.0.zip",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.19.11/ProjectZero_49.19.11_Game_Tutorial_Hizan_1.0.zip",
   "sha256": "31bd7317d0e352e40a41daec61614daebfe77bbb08d262847d534af8b1234abc",
   "mandatory": false,
-  "minimumLauncherVersion": "49.19.9",
+  "minimumLauncherVersion": "49.19.10",
   "updateLogZh": [
     "游戏本体独立升级至 49.19.10，启动器版本保持 49.19.9",
     "新手教程与正式关卡共用战斗模组，仅保留左键普攻、E技能、Space弹刀和Q大招",
