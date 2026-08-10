@@ -1,11 +1,11 @@
 {
-  "latestVersion": "49.19.10",
-  "version": "49.19.10",
+  "latestVersion": "49.19.9",
+  "version": "49.19.9",
   "build": "2026080724-chapter1-ost",
   "publishedAt": "2026-08-09T21:30:00-07:00",
   "mandatory": false,
   "minimumLauncherVersion": "49.19.9",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.19.10/PZ_Game_49.19.10.zip",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.19.9/PZ_Game_49.19.9.zip",
   "sha256": "a1b0dc276ec96721405a1c5f4fcc99131ea3a366b4ffa3e0fab5dd4a3fb629d4",
   "size": 59852852,
   "updateLogZh": [
