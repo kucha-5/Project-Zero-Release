@@ -1,21 +1,21 @@
-{
-  "latestVersion": "49.19.9",
-  "version": "49.19.9",
-  "build": "2026080724-chapter1-ost",
-  "publishedAt": "2026-08-09T21:30:00-07:00",
+
+  "latestVersion": "49.19.10",
+  "version": "49.19.10",
+  "build": "2026080918-tutorial-hizan-1.0",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.10/ProjectZero_49.19.10_Game_Tutorial_Hizan_1.0.zip",
+  "sha256": "31bd7317d0e352e40a41daec61614daebfe77bbb08d262847d534af8b1234abc",
   "mandatory": false,
   "minimumLauncherVersion": "49.19.9",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.19.9/PZ_Game_49.19.9.zip",
-  "sha256": "a1b0dc276ec96721405a1c5f4fcc99131ea3a366b4ffa3e0fab5dd4a3fb629d4",
-  "size": 59852852,
   "updateLogZh": [
-    "修复 GitHub 远程版本清单仓库路径",
-    "恢复启动器在线检查游戏版本与构建号",
-    "保留 49.19.9 游戏内容与现有存档"
+    "游戏本体独立升级至 49.19.10，启动器版本保持 49.19.9",
+    "新手教程与正式关卡共用战斗模组，仅保留左键普攻、E技能、Space弹刀和Q大招",
+    "白日梦重现《日斩》1.0增加调查路线、旁白、贪婪证据与五种结局",
+    "修复同版本号无法触发游戏更新的问题"
   ],
   "updateLogEn": [
-    "Fixed the GitHub repository path used by the remote version manifest.",
-    "Restored online game version and build checks in SF Launcher.",
-    "Preserved the current 49.19.9 game content and saves."
+    "The game is independently updated to 49.19.10 while the launcher remains on 49.19.9.",
+    "The tutorial now uses the production combat module with LMB, E, Space and Q objectives.",
+    "Daydream Reappearance: Hizan 1.0 adds investigation routes, narration, Greed evidence and five endings.",
+    "Fixed game updates not triggering when release content changed without a version bump."
   ]
 }
