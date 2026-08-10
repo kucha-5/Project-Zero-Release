@@ -1,10 +1,21 @@
 {
-  "gameManifestUrl": "https://raw.githubusercontent.com/kucha-5/Project-Zero-Release/main/version.json",
-  "launcherManifestUrl": "https://raw.githubusercontent.com/kucha-5/Project-Zero-Release/main/launcher-version.json",
-  "allowedDownloadHosts": [
-    "github.com"
+  "latestVersion": "49.19.9",
+  "version": "49.19.9",
+  "build": "2026080724-chapter1-ost",
+  "publishedAt": "2026-08-09T21:30:00-07:00",
+  "mandatory": false,
+  "minimumLauncherVersion": "49.19.9",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.19.9/PZ_Game_49.19.9.zip",
+  "sha256": "a1b0dc276ec96721405a1c5f4fcc99131ea3a366b4ffa3e0fab5dd4a3fb629d4",
+  "size": 59852852,
+  "updateLogZh": [
+    "修复 GitHub 远程版本清单仓库路径",
+    "恢复启动器在线检查游戏版本与构建号",
+    "保留 49.19.9 游戏内容与现有存档"
   ],
-  "allowedDownloadPathPrefixes": [
-    "/kucha-5/Project-Zero-Release/releases/download/"
+  "updateLogEn": [
+    "Fixed the GitHub repository path used by the remote version manifest.",
+    "Restored online game version and build checks in SF Launcher.",
+    "Preserved the current 49.19.9 game content and saves."
   ]
 }
