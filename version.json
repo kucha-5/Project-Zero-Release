@@ -1,21 +1,22 @@
 {
-  "latestVersion": "49.19.11",
-  "version": "49.19.10",
-  "build": "2026080918-tutorial-hizan-1.0",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.19.11/ProjectZero_49.19.11_Game_Tutorial_Hizan_1.0.zip",
-  "sha256": "31bd7317d0e352e40a41daec61614daebfe77bbb08d262847d534af8b1234abc",
+  "latestVersion": "49.19.9",
+  "version": "49.19.9",
+  "build": "2026081116-chapter-audio-network-parallax",
+  "publishedAt": "2026-08-11T16:00:00-07:00",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.9/ProjectZero_49.19.9_Game_2026081116.zip",
+  "sha256": "c777191502834976d4f2a1b4017b7b75423f3c9cac21e059a33546551a1edd15",
   "mandatory": false,
-  "minimumLauncherVersion": "49.19.10",
+  "minimumLauncherVersion": "49.19.9",
   "updateLogZh": [
-    "游戏本体独立升级至 49.19.10，启动器版本保持 49.19.9",
-    "新手教程与正式关卡共用战斗模组，仅保留左键普攻、E技能、Space弹刀和Q大招",
-    "白日梦重现《日斩》1.0增加调查路线、旁白、贪婪证据与五种结局",
-    "修复同版本号无法触发游戏更新的问题"
+    "补齐第二章关卡页与战斗音乐，并接入第零章至第二章实际音乐路由",
+    "修复检测到可选新构建后更新游戏按钮点击无效",
+    "启动器版本请求新增 GitHub Raw、GitHub Pages 与 jsDelivr 多线路回退",
+    "鼠标视差仅移动背景且采用整数像素，改善 UI 模糊、拖影与掉帧感"
   ],
   "updateLogEn": [
-    "The game is independently updated to 49.19.10 while the launcher remains on 49.19.9.",
-    "The tutorial now uses the production combat module with LMB, E, Space and Q objectives.",
-    "Daydream Reappearance: Hizan 1.0 adds investigation routes, narration, Greed evidence and five endings.",
-    "Fixed game updates not triggering when release content changed without a version bump."
+    "Restored Chapter 2 operation and battle music with complete Chapter 0-2 routing.",
+    "Fixed the game update button for optional newer builds.",
+    "Added multiple GitHub and jsDelivr fallbacks for launcher update manifests.",
+    "Limited mouse parallax to integer-pixel background movement to improve clarity and frame pacing."
   ]
 }
