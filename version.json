@@ -2,21 +2,22 @@
   "latestVersion": "49.19.11",
   "version": "49.19.11",
   "build": "2026081117-patch-update-asar-channel",
-  "publishedAt": "2026-08-11T17:00:00-07:00",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_Patch_2026081117.zip",
-  "sha256": "505c84394b1d51496253e96dbced2da4aba5bdea6d6d63a386ac03eff8b21201",
-  "packageType": "patch",
-  "patch": true,
+  "publishedAt": "2026-08-11T19:20:00-07:00",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_Full_Game_2026081117.zip",
+  "sha256": "c3e1504bddca8c0fb6f023bedad2cf573f96986e76c80f2b02829fba1288899f",
+  "size": 71145832,
   "mandatory": false,
-  "minimumLauncherVersion": "49.19.10",
+  "minimumLauncherVersion": "49.19.9",
   "updateLogZh": [
-    "修复游戏增量更新安装流程，不再要求每次下载完整包",
-    "补齐第零章至第二章关卡页、战斗与首领音乐",
-    "修复鼠标视差造成的画面模糊与掉帧感"
+    "改为完整游戏更新包，不再依赖旧版游戏文件",
+    "完整包含第零章、第一章与第二章关卡和战斗音乐",
+    "修复可选游戏更新按钮点击无效与游戏文件不完整问题",
+    "鼠标视差仅作用于背景并采用整数像素，降低模糊与拖影掉帧感"
   ],
   "updateLogEn": [
-    "Added verified incremental game update installation.",
-    "Restored Chapter 0-2 operation, battle and boss music.",
-    "Improved visual clarity and frame pacing for mouse parallax."
+    "Switched to a complete game package without depending on an older installation.",
+    "Included all Chapter 0, Chapter 1, and Chapter 2 operation and battle music.",
+    "Fixed optional update actions and incomplete game installations.",
+    "Limited mouse parallax to integer-positioned backgrounds to reduce blur and perceived frame drops."
   ]
 }
