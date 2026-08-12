@@ -8,7 +8,7 @@
   "packageType": "patch",
   "patch": true,
   "mandatory": false,
-  "minimumLauncherVersion": "49.19.9",
+  "minimumLauncherVersion": "49.19.10",
   "updateLogZh": [
     "修复游戏增量更新安装流程，不再要求每次下载完整包",
     "补齐第零章至第二章关卡页、战斗与首领音乐",
