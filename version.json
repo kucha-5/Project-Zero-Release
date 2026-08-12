@@ -1,12 +1,12 @@
 {
-  "latestVersion": "49.19.9",
-  "version": "49.19.9",
+  "latestVersion": "49.19.11",
+  "version": "49.19.11",
   "build": "2026081116-chapter-audio-network-parallax",
   "publishedAt": "2026-08-11T16:00:00-07:00",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.9/ProjectZero_49.19.9_Game_2026081116.zip",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_Game_2026081116.zip",
   "sha256": "c777191502834976d4f2a1b4017b7b75423f3c9cac21e059a33546551a1edd15",
   "mandatory": false,
-  "minimumLauncherVersion": "49.19.9",
+  "minimumLauncherVersion": "49.19.10",
   "updateLogZh": [
     "补齐第二章关卡页与战斗音乐，并接入第零章至第二章实际音乐路由",
     "修复检测到可选新构建后更新游戏按钮点击无效",
