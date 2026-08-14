@@ -1,23 +1,21 @@
 {
   "latestVersion": "49.19.11",
   "version": "49.19.11",
-  "build": "2026081117-patch-update-asar-channel",
-  "publishedAt": "2026-08-11T19:20:00-07:00",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_Full_Game_2026081117.zip",
-  "sha256": "c3e1504bddca8c0fb6f023bedad2cf573f96986e76c80f2b02829fba1288899f",
-  "size": 71145832,
+  "build": "2026081420-light-full-package",
+  "publishedAt": "2026-08-14T20:00:00-07:00",
   "mandatory": false,
   "minimumLauncherVersion": "49.19.9",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_Full_Game_Lite_2026081420.zip",
+  "sha256": "8b8fe6e8c31abc6c3b759ef0397632b1a3b534b1b5bbe1ffb270e8c3b803b723",
+  "size": 50766306,
   "updateLogZh": [
-    "改为完整游戏更新包，不再依赖旧版游戏文件",
-    "完整包含第零章、第一章与第二章关卡和战斗音乐",
-    "修复可选游戏更新按钮点击无效与游戏文件不完整问题",
-    "鼠标视差仅作用于背景并采用整数像素，降低模糊与拖影掉帧感"
+    "49.19.11完整游戏轻量包，不依赖旧版游戏文件",
+    "保留全部章节、玩法以及12首背景音乐",
+    "优化音乐资源体积，降低远程下载大小"
   ],
   "updateLogEn": [
-    "Switched to a complete game package without depending on an older installation.",
-    "Included all Chapter 0, Chapter 1, and Chapter 2 operation and battle music.",
-    "Fixed optional update actions and incomplete game installations.",
-    "Limited mouse parallax to integer-positioned backgrounds to reduce blur and perceived frame drops."
+    "Lightweight complete 49.19.11 game package without older-file dependencies.",
+    "Keeps every chapter, gameplay mode, and all 12 background tracks.",
+    "Optimized audio assets to reduce the remote download size."
   ]
 }
