@@ -1,0 +1,38 @@
+window.PZ_VERSION = {
+  "latestVersion": "49.19.11",
+  "version": "49.19.11",
+  "build": "2026081423-split-game-download",
+  "publishedAt": "2026-08-14T23:00:00-07:00",
+  "mandatory": false,
+  "minimumLauncherVersion": "49.19.9",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_2026081423.part00.bin",
+  "sha256": "f9392cc65bc0a2d81ef94562f67b5dbe718f6fccd41a6189e62c4bf40570ff50",
+  "size": 71145176,
+  "parts": [
+    {
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_2026081423.part00.bin",
+      "sha256": "8446cbf21642b698124c35d6bcd9f409c50995e26ac50a1fac694b32075a295c",
+      "size": 24000000
+    },
+    {
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_2026081423.part01.bin",
+      "sha256": "58729cf99ed4c984f585f8530417016d104c4e5d9623ce5fb8fe25f44c0011e2",
+      "size": 24000000
+    },
+    {
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_2026081423.part02.bin",
+      "sha256": "50c003a9c1d388053da5b9a105fc25026b2de76ceacdd53462b594fda673f4fe",
+      "size": 23145176
+    }
+  ],
+  "updateLogZh": [
+    "瀹屾暣娓告垙鏇存柊鏀逛负3涓綆浜�25MB鐨勫垎鍖�",
+    "鍚姩鍣ㄨ嚜鍔ㄩ€愪唤涓嬭浇銆佹牎楠屻€佸悎骞跺苟瀹夎",
+    "淇濈暀49.19.11鍏ㄩ儴娓告垙鍐呭涓庨煶涔�"
+  ],
+  "updateLogEn": [
+    "Split the complete game update into three parts below 25 MB.",
+    "The launcher downloads, verifies, joins, and installs every part automatically.",
+    "Keeps all 49.19.11 game content and music."
+  ]
+};
