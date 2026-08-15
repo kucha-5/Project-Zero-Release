@@ -1,21 +1,38 @@
 {
   "latestVersion": "49.19.11",
   "version": "49.19.11",
-  "build": "2026081420-light-full-package",
-  "publishedAt": "2026-08-14T20:00:00-07:00",
+  "build": "2026081423-split-game-download",
+  "publishedAt": "2026-08-14T23:00:00-07:00",
   "mandatory": false,
   "minimumLauncherVersion": "49.19.9",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_Full_Game_Lite_2026081420.zip",
-  "sha256": "8b8fe6e8c31abc6c3b759ef0397632b1a3b534b1b5bbe1ffb270e8c3b803b723",
-  "size": 50766306,
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_2026081423.part00.bin",
+  "sha256": "f9392cc65bc0a2d81ef94562f67b5dbe718f6fccd41a6189e62c4bf40570ff50",
+  "size": 71145176,
+  "parts": [
+    {
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_2026081423.part00.bin",
+      "sha256": "8446cbf21642b698124c35d6bcd9f409c50995e26ac50a1fac694b32075a295c",
+      "size": 24000000
+    },
+    {
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_2026081423.part01.bin",
+      "sha256": "58729cf99ed4c984f585f8530417016d104c4e5d9623ce5fb8fe25f44c0011e2",
+      "size": 24000000
+    },
+    {
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.19.11/ProjectZero_49.19.11_2026081423.part02.bin",
+      "sha256": "50c003a9c1d388053da5b9a105fc25026b2de76ceacdd53462b594fda673f4fe",
+      "size": 23145176
+    }
+  ],
   "updateLogZh": [
-    "49.19.11完整游戏轻量包，不依赖旧版游戏文件",
-    "保留全部章节、玩法以及12首背景音乐",
-    "优化音乐资源体积，降低远程下载大小"
+    "完整游戏更新改为3个低于25MB的分包",
+    "启动器自动逐份下载、校验、合并并安装",
+    "保留49.19.11全部游戏内容与音乐"
   ],
   "updateLogEn": [
-    "Lightweight complete 49.19.11 game package without older-file dependencies.",
-    "Keeps every chapter, gameplay mode, and all 12 background tracks.",
-    "Optimized audio assets to reduce the remote download size."
+    "Split the complete game update into three parts below 25 MB.",
+    "The launcher downloads, verifies, joins, and installs every part automatically.",
+    "Keeps all 49.19.11 game content and music."
   ]
 }
