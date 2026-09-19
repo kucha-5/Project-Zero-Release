@@ -1,21 +1,27 @@
-{
+window.PZ_VERSION = {
   "latestVersion": "49.33.6",
   "version": "49.33.6",
   "build": "2026091704-pc-store-refresh-align",
   "publishedAt": "2026-09-18T00:00:00-07:00",
   "mandatory": false,
   "minimumLauncherVersion": "49.19.9",
+
   "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6_Full_Game.zip",
-  "sha256": "纯游戏ZIP实际的SHA256",
-  "size": 纯游戏ZIP实际字节数,
+
+  "sha256": " F7D80B9422FF43574363A36D36571B9FAD6DD658CBF00386CA57EB2C0C5E67B6",
+  "size": 96mb,
+
   "updateLogZh": [
-    "更新 Project Zero 游戏本体至49.33.6",
-    "加入最新角色、商店、Mobile与战斗内容",
-    "本次只更新游戏本体，不替换SF Launcher"
+    "49.33.6正式上线",
+    "补充角色与武器立绘",
+    "完成晶体战争及作战玩法调整",
+    "晶体战争联机功能上线"
   ],
+
   "updateLogEn": [
-    "Updates Project Zero game content to 49.33.6.",
-    "Adds the latest character, store, mobile and combat content.",
-    "This update replaces game files only and does not replace SF Launcher."
+    "Project Zero 49.33.6 is now available.",
+    "Added character and weapon artwork.",
+    "Completed Crystal War and updated combat content.",
+    "Online multiplayer is now available for Crystal War."
   ]
-}
+};
