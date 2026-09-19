@@ -1,38 +1,21 @@
-window.PZ_VERSION = {
+{
   "latestVersion": "49.33.6",
   "version": "49.33.6",
-  "build": "2026081423-split-game-download",
-  "publishedAt": "2026-08-14T23:00:00-07:00",
+  "build": "2026091704-pc-store-refresh-align",
+  "publishedAt": "2026-09-18T00:00:00-07:00",
   "mandatory": false,
   "minimumLauncherVersion": "49.19.9",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.33.6/ProjectZero_49.33.6_2026081423.part00.bin",
-  "sha256": "f9392cc65bc0a2d81ef94562f67b5dbe718f6fccd41a6189e62c4bf40570ff50",
-  "size": 71145176,
-  "parts": [
-    {
-      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.33.6/ProjectZero_49.33.6_2026081423.part00.bin",
-      "sha256": "8446cbf21642b698124c35d6bcd9f409c50995e26ac50a1fac694b32075a295c",
-      "size": 24000000
-    },
-    {
-      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.33.6/ProjectZero_49.33.6_2026081423.part01.bin",
-      "sha256": "58729cf99ed4c984f585f8530417016d104c4e5d9623ce5fb8fe25f44c0011e2",
-      "size": 24000000
-    },
-    {
-      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/v49.33.6/ProjectZero_49.33.6_2026081423.part02.bin",
-      "sha256": "50c003a9c1d388053da5b9a105fc25026b2de76ceacdd53462b594fda673f4fe",
-      "size": 23145176
-    }
-  ],
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6_Full_Game.zip",
+  "sha256": "纯游戏ZIP实际的SHA256",
+  "size": 纯游戏ZIP实际字节数,
   "updateLogZh": [
-    "最新更新, 49.33.6正式上线",
-    "角色和武器立绘补充，晶体战争制作成功，作战重置",
-    "联机功能上线（仅限晶体战争）"
+    "更新 Project Zero 游戏本体至49.33.6",
+    "加入最新角色、商店、Mobile与战斗内容",
+    "本次只更新游戏本体，不替换SF Launcher"
   ],
   "updateLogEn": [
-    "Latest update: Version 49.33.6 is now live",
-"Added character and weapon artwork; Crystal War mode implemented; combat mechanics reset",
-"Online multiplayer feature launched (Crystal War mode only)"
+    "Updates Project Zero game content to 49.33.6.",
+    "Adds the latest character, store, mobile and combat content.",
+    "This update replaces game files only and does not replace SF Launcher."
   ]
-};
+}
