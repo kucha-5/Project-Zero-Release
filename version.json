@@ -5,15 +5,47 @@
   "publishedAt": "2026-09-18T00:00:00-07:00",
   "mandatory": false,
   "minimumLauncherVersion": "49.19.9",
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6_Full_Game.zip",
+
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6.part00.bin",
+
   "sha256": "F7D80B9422FF43574363A36D36571B9FAD6DD658CBF00386CA57EB2C0C5E67B6",
-  "size": 1,
+  "size": 98707214,
+
+  "parts": [
+    {
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6.part00.bin",
+      "sha256": "9fffe461ff9740534d685898ffeb695c0644139a2f2743d2b62dc2100f159681",
+      "size": 24000000
+    },
+    {
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6.part01.bin",
+      "sha256": "75386ebe7b9f367004c999db3c7089312d6b80e7be8dd0107f0130215a3afb79",
+      "size": 24000000
+    },
+    {
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6.part02.bin",
+      "sha256": "baf11c48380332bb7db164d35f8335c227dac07408c6ffaf6f77a123670083ea",
+      "size": 24000000
+    },
+    {
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6.part03.bin",
+      "sha256": "4495700017919e1394abdb222f7669b0fad597040cd5963d11ffcbf31ff6141b",
+      "size": 24000000
+    },
+    {
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6.part04.bin",
+      "sha256": "3e708aa3c6d25e4c038046a06b967dcbf109ef78de82ecb85c1610504eb50b93",
+      "size": 2707214
+    }
+  ],
+
   "updateLogZh": [
     "49.33.6正式上线",
     "补充角色与武器立绘",
     "完成晶体战争及作战玩法调整",
     "晶体战争联机功能上线"
   ],
+
   "updateLogEn": [
     "Project Zero 49.33.6 is now available.",
     "Added character and weapon artwork.",
