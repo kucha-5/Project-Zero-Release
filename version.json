@@ -1,55 +1,58 @@
+
 {
-  "latestVersion": "49.33.6",
-  "version": "49.33.6",
-  "build": "2026091704-pc-store-refresh-align",
-  "publishedAt": "2026-09-18T00:00:00-07:00",
+  "latestVersion": "50",
+  "version": "50",
+  "build": "20261007-v50",
+  "publishedAt": "2026-10-07T00:00:00-07:00",
   "mandatory": false,
   "minimumLauncherVersion": "49.19.9",
 
-  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6.part00.bin",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part00.bin",
 
-  "sha256": "F7D80B9422FF43574363A36D36571B9FAD6DD658CBF00386CA57EB2C0C5E67B6",
-  "size": 98707214,
+  "sha256": "45F2411F27357D811AEF15B4E42D6D1F8B04C118B2C9C381B284F634E4476F70",
+  "size": 98710257,
 
   "parts": [
     {
-      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6.part00.bin",
-      "sha256": "9fffe461ff9740534d685898ffeb695c0644139a2f2743d2b62dc2100f159681",
-      "size": 24000000
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part00.bin",
+      "sha256": "214102A21A4F37B1A34D0AD47C1EF94237BC44108D60FF6DF599438D1D8204B5",
+      "size": 19742052
     },
     {
-      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6.part01.bin",
-      "sha256": "75386ebe7b9f367004c999db3c7089312d6b80e7be8dd0107f0130215a3afb79",
-      "size": 24000000
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part01.bin",
+      "sha256": "DD1741047D499EE42984AAFB91C4A441CCCDB3712AA74E58039925FBD78D95B3",
+      "size": 19742052
     },
     {
-      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6.part02.bin",
-      "sha256": "baf11c48380332bb7db164d35f8335c227dac07408c6ffaf6f77a123670083ea",
-      "size": 24000000
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part02.bin",
+      "sha256": "3839F58568D2C2D7DF0972FBF49A228336E386DB28D8573EE68A341957BD61EC",
+      "size": 19742052
     },
     {
-      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6.part03.bin",
-      "sha256": "4495700017919e1394abdb222f7669b0fad597040cd5963d11ffcbf31ff6141b",
-      "size": 24000000
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part03.bin",
+      "sha256": "0829E470CD7B309153C04CCFAEFD7149ECC945C75900E06D1C59DD103C005345",
+      "size": 19742052
     },
     {
-      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/49.33.6/ProjectZero_49.33.6.part04.bin",
-      "sha256": "3e708aa3c6d25e4c038046a06b967dcbf109ef78de82ecb85c1610504eb50b93",
-      "size": 2707214
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part04.bin",
+      "sha256": "099DF43997C62A0B82F7FDF4B31E2B38BE08D41E7EE100A6B5B9C3D01EFCB90A",
+      "size": 19742049
     }
   ],
 
   "updateLogZh": [
-    "49.33.6正式上线",
-    "补充角色与武器立绘",
-    "完成晶体战争及作战玩法调整",
-    "晶体战争联机功能上线"
+    "Project Zero V50 正式上线",
+    "优化地图视觉效果与区域过渡",
+    "增加晶体模块及策略性玩法",
+    "调整 Boss 副本等级与阶级",
+    "优化角色与武器养成系统"
   ],
 
   "updateLogEn": [
-    "Project Zero 49.33.6 is now available.",
-    "Added character and weapon artwork.",
-    "Completed Crystal War and updated combat content.",
-    "Online multiplayer is now available for Crystal War."
+    "Project Zero V50 is now available.",
+    "Improved map visuals and area transitions.",
+    "Added Crystal Modules and strategic gameplay.",
+    "Adjusted Boss stages and level progression.",
+    "Improved character and weapon progression."
   ]
 }
