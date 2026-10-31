@@ -1,41 +1,37 @@
 
-window.PZ_VERSION = {
-  latestVersion: "50",
-  version: "50",
-  minimumLauncherVersion: "49.19.9",
-
-  downloadType: "multipart",
-
-  downloadUrl: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.zip",
-
-  size: 0,
-  sha256: "",
-
-  parts: [
+{
+  "latestVersion": "50",
+  "version": "50",
+  "minimumLauncherVersion": "49.19.9",
+  "downloadType": "multipart",
+  "downloadUrl": "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.zip",
+  "size": 113660969,
+  "sha256": "E712C603F4D67D6D558D3BB5F3243AA14544FF06AA223B0AE0A618EAC4CE8CCB",
+  "parts": [
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part00.bin",
-      size: 0,
-      sha256: ""
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part00.bin",
+      "size": 22732194,
+      "sha256": "C75037D923F18FE3BA758B9276DC690E2B40BEDFFDE93C4F827D15836422B870"
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part01.bin",
-      size: 0,
-      sha256: ""
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part01.bin",
+      "size": 22732194,
+      "sha256": "35EA5B80292BC1088F27EE87E0F94D42110A7631F9B4FCCFE176AF57F218ED20"
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part02.bin",
-      size: 0,
-      sha256: ""
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part02.bin",
+      "size": 22732194,
+      "sha256": "8B37036D460BC81BA98C2A6CB916E8A28FCE29D83CA099F1F8B7224F5C3B6519"
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part03.bin",
-      size: 0,
-      sha256: ""
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part03.bin",
+      "size": 22732194,
+      "sha256": "C3ACFB1ED2ABA21AA42AECB6E6A9AB957957224C247B8033D994C4B6E2A3D652"
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part04.bin",
-      size: 0,
-      sha256: ""
+      "url": "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part04.bin",
+      "size": 22732193,
+      "sha256": "84965B3B41A3D445DDDD77E64396FA4D0E92FA12E93853B255B73F7A5F9B509D"
     }
   ]
-};
+}
