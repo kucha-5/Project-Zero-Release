@@ -1,39 +1,40 @@
 
+
 window.PZ_VERSION = {
-  latestVersion: "51",
-  version: "51",
+  latestVersion: "50",
+  version: "50",
   minimumLauncherVersion: "49.19.9",
 
   downloadType: "multipart",
 
-  downloadUrl: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V51/ProjectZero_V51_Full_Game.zip",
+  downloadUrl: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_V50_Full_Game.zip",
 
   size: 0,
   sha256: "",
 
   parts: [
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V51/ProjectZero_51.part00.bin",
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part00.bin",
       size: 0,
       sha256: ""
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V51/ProjectZero_51.part01.bin",
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part01.bin",
       size: 0,
       sha256: ""
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V51/ProjectZero_51.part02.bin",
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part02.bin",
       size: 0,
       sha256: ""
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V51/ProjectZero_51.part03.bin",
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part03.bin",
       size: 0,
       sha256: ""
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V51/ProjectZero_51.part04.bin",
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part04.bin",
       size: 0,
       sha256: ""
     }
