@@ -1,5 +1,4 @@
 
-
 window.PZ_VERSION = {
   latestVersion: "50",
   version: "50",
@@ -7,34 +6,34 @@ window.PZ_VERSION = {
 
   downloadType: "multipart",
 
-  downloadUrl: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_V50_Full_Game.zip",
+  downloadUrl: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.zip",
 
   size: 0,
   sha256: "",
 
   parts: [
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part00.bin",
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part00.bin",
       size: 0,
       sha256: ""
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part01.bin",
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part01.bin",
       size: 0,
       sha256: ""
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part02.bin",
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part02.bin",
       size: 0,
       sha256: ""
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part03.bin",
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part03.bin",
       size: 0,
       sha256: ""
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part04.bin",
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_PC_Higiri_LayerFix_R13_20261017.part04.bin",
       size: 0,
       sha256: ""
     }
