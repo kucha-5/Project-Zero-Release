@@ -1,36 +1,41 @@
+
 window.PZ_VERSION = {
-  latestVersion: "50",
-  version: "50",
+  latestVersion: "51",
+  version: "51",
   minimumLauncherVersion: "49.19.9",
+
   downloadType: "multipart",
-  downloadUrl: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_V50_Full_Game.zip",
-  size: 98713433,
-  sha256: "20B3C436C000FACFF2F3FBE54BB87CB5FE5C097E12A7736759FEDF59CC81BB55",
+
+  downloadUrl: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V51/ProjectZero_V51_Full_Game.zip",
+
+  size: 0,
+  sha256: "",
+
   parts: [
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part00.bin",
-      size: 20971520,
-      sha256: "99855DEA064D363BFFE225E1BEEF92557103DFB8D39F81FA8FE6870B472931F0"
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V51/ProjectZero_51.part00.bin",
+      size: 0,
+      sha256: ""
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part01.bin",
-      size: 20971520,
-      sha256: "7FDA2CB2B2AFB071E98A4F9B31D57D541D34382D92454340CFE4DE6AC5D92522"
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V51/ProjectZero_51.part01.bin",
+      size: 0,
+      sha256: ""
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part02.bin",
-      size: 20971520,
-      sha256: "969A3BB5A72AD793CCECD701655129EA5B1580E06F41404281F84DD27569A0B5"
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V51/ProjectZero_51.part02.bin",
+      size: 0,
+      sha256: ""
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part03.bin",
-      size: 20971520,
-      sha256: "D50A66B9F80CCAA7F2A5DF42904FD5637968DD89A3C15E0058F28971931A1BB1"
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V51/ProjectZero_51.part03.bin",
+      size: 0,
+      sha256: ""
     },
     {
-      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V50/ProjectZero_50.part04.bin",
-      size: 14827353,
-      sha256: "5311D1009623F429B18B4CD0EBCBEEE58B8F3A71FDABD6E64517FAF004A4970F"
+      url: "https://github.com/kucha-5/Project-Zero-Release/releases/download/V51/ProjectZero_51.part04.bin",
+      size: 0,
+      sha256: ""
     }
   ]
 };
